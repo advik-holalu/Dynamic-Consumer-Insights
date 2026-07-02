@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "#F28C28"
+font = "sans serif"
+
+# The app is dark everywhere, always. There is no in-app theme toggle.
