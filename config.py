@@ -17,12 +17,12 @@ question or a new tab is a one-line change.
 # =====================================================================
 SOURCES = {
     "Popz": {
-        "sheet_id": "18kP9C59ZmZM5Y5MshR2d-ErGRVTEU2B-hDHiRP5Qg9U",
-        "worksheet": "Form Responses 1",
+        "sheet_id": "1n4ieXQHrxK5M6J-D-A8VAkWG5Ch-oazDn2BIe99144w",
+        "worksheet": "Sheet1",
     },
     "Meetha": {
-        "sheet_id": "1EJw-7FZubcTgoLQmwyCcgGoV8-Ux-K5CgDcGsHoGgZw",
-        "worksheet": "Form Responses 1",
+        "sheet_id": "1dyA_ifSdTtuqoTr5144W_HuhBBRrGAqFp0iLU3JwUqs",
+        "worksheet": "Sheet1",
     },
 }
 
